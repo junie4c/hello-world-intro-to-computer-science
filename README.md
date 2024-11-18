@@ -1,1 +1,2 @@
-# hello-world-intro-to-computer-science
+I# damont brooks
+am a student at Virginia State University
